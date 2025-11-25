@@ -1,4 +1,4 @@
-package no1_palindrome;
+package no1_string_coding_questions.no1_palindrome;
 
 import java.util.Scanner;
 

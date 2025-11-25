@@ -10,7 +10,7 @@ public class No1_learningStreamApI {
         List<Integer> lst2=new ArrayList<>();
 
 
-        lst2=lst1.clo;
+//        lst2=lst1.clone();
 
         System.out.println(lst2);
          lst1.add(1,100);
