@@ -2,10 +2,10 @@
 
 ## 1. String Coding Questions
 
-1.  Reverse a string
-2.  Check if a string is palindrome
-3.  Count vowels and consonants
-4.  Remove duplicate characters from a string
+1.  [Reverse a string  ](./no1_string_coding_questions/no1_palindrome)
+2.   [Check if a string is palindrome](./no1_string_coding_questions/no1_palindrome)
+3.  [Count vowels and consonants](./no1_string_coding_questions/no2_vowels_and_consonants)
+4.  [Remove duplicate characters from a string](./no1_string_coding_questions/no3_remove_dublicates)
 5.  Find occurrence of each character (frequency map)
 6.  Check if two strings are anagrams
 7.  Reverse each word in a sentence
