@@ -1,4 +1,4 @@
-package palindrome;
+package no1_palindrome;
 
 public class No2_palindromeUsingStringMethod {
 
