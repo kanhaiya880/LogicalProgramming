@@ -1,6 +1,6 @@
-package no2_array_coding_questions;
+package no2_array_coding_questions.no1_finding_largest_number;
 
-public class no1_find_largest_element {
+public class No1_find_largest_element {
 
     int[] arr = {40, 500, 2, 300, 20, 50};
 
