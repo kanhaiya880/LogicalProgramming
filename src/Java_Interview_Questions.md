@@ -6,7 +6,7 @@
 2.   [Check if a string is palindrome](./no1_string_coding_questions/no1_palindrome)
 3.  [Count vowels and consonants](./no1_string_coding_questions/no2_vowels_and_consonants)
 4.  [Remove duplicate characters from a string](./no1_string_coding_questions/no3_remove_dublicates)
-5.  Find occurrence of each character (frequency map)
+5.  [Find occurrence of each character-frequency map](./no1_string_coding_questions/no4_finding_frequency)
 6.  Check if two strings are anagrams
 7.  Reverse each word in a sentence
 8.  Find longest substring without repeating characters
@@ -20,7 +20,7 @@
 
 ## 2. Array Coding Questions
 
-16. Find largest element
+16. [Find largest element](./no2_array_coding_questions/no1_find_largest_element.java)
 17. Find second largest element
 18. Remove duplicates without using Set
 19. Reverse an array
