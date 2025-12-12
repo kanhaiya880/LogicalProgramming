@@ -20,8 +20,8 @@
 
 ## 2. Array Coding Questions
 
-16. [Find largest element](src/no2_array_coding_questions/no1_find_largest_element.java)
-17. Find second largest element
+16. [Find largest element](src/no2_array_coding_questions/no1_finding_largest_number/No1_find_second_largest_element.java)
+17. [Find second largest element](src/no2_array_coding_questions/no1_finding_largest_number/No1_find_second_largest_element.java)
 18. Remove duplicates without using Set
 19. Reverse an array
 20. Sort array without using built-in methods
